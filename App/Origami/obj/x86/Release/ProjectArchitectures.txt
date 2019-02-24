@@ -1,0 +1,2 @@
+C:\Users\lucas\Documents\GitHub\Hololens-Basisc-101\HolographicAcademy-Holograms-101\HolographicAcademy-Holograms-101\Origami\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\lucas\Documents\GitHub\Hololens-Basisc-101\HolographicAcademy-Holograms-101\HolographicAcademy-Holograms-101\Origami\App\Origami\Origami.csproj;x86
